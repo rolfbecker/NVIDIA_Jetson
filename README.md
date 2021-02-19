@@ -1,2 +1,2 @@
 # NVIDIA_Jetson
-The home of my own Jetson projects.
+The home of my Jetson projects.
